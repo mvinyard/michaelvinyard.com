@@ -7,7 +7,7 @@
 
 /* =======================================================
 *
-* 	Template Style
+* 	Template Style 
 *	Edit this section
 *
 * ======================================================= */
@@ -286,14 +286,12 @@ figure {
         vertical-align: middle;
         min-height: 700px;
         padding: 2em;
-        position: relative;
-        opacity: 50;}
+        position: relative; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner .desc {
           position: absolute;
           bottom: 15px;
           left: 0;
           padding: 30px;
-          opacity: 50;
           background: #fff; }
         @media screen and (max-width: 768px) {
           #colorlib-hero .flexslider .slider-text > .slider-text-inner {
@@ -674,10 +672,6 @@ body.offcanvas {
   font-weight: 400;
   text-decoration: underline; }
 
-.pubcov-img {
-    width: 200px;
-    height: 266px; }
-
 .colorlib-lead {
   font-size: 18px;
   line-height: 1.5; }
@@ -747,8 +741,8 @@ body.offcanvas {
     position: absolute;
     top: 0;
     left: 0;
-    width: 200px;
-    height: 266px;
+    width: 100px;
+    height: 100px;
     display: table;
     text-align: center;
     background: rgba(0, 0, 0, 0.03);
@@ -766,7 +760,7 @@ body.offcanvas {
         .colorlib-feature .colorlib-icon i {
           font-size: 40px; } }
   .colorlib-feature .colorlib-text {
-    padding-left: 220px;
+    padding-left: 120px;
     width: 100%; }
     .colorlib-feature .colorlib-text h2, .colorlib-feature .colorlib-text h3 {
       margin: 0;
